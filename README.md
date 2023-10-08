@@ -1,0 +1,1 @@
+# chinema_hall_project_in_python
